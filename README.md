@@ -23,7 +23,7 @@ It accepts an arithmetic expression in infix form, converts it into postfix nota
 - String
 
 ## Example Expression
-(A+B)*(C-)
+(A+B)*(C-D)
 
 ## Output
 The simulator generates:
